@@ -1,0 +1,42 @@
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\Activity 10.csprojAssemblyReference.cache
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\MainWindow.baml
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\MainWindow.g.cs
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\App.g.cs
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\Activity 10_MarkupCompile.cache
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\Activity 10.g.resources
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\Activity_10.Properties.Resources.resources
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\Activity 10.csproj.GenerateResource.cache
+C:\Users\Joven\source\repos\Activity 10\Activity 10\bin\Debug\Activity 10.exe.config
+C:\Users\Joven\source\repos\Activity 10\Activity 10\bin\Debug\Activity 10.exe
+C:\Users\Joven\source\repos\Activity 10\Activity 10\bin\Debug\Activity 10.pdb
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\Activity 10_MarkupCompile.lref
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\Activity 10.exe
+C:\Users\Joven\source\repos\Activity 10\Activity 10\obj\Debug\Activity 10.pdb
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\bin\Debug\Activity 10.exe.config
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\bin\Debug\Activity 10.exe
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\bin\Debug\Activity 10.pdb
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.csprojAssemblyReference.cache
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\MainWindow.g.cs
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\App.g.cs
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10_MarkupCompile.cache
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10_MarkupCompile.lref
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\MainWindow.baml
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.g.resources
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity_10.Properties.Resources.resources
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.csproj.GenerateResource.cache
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.exe
+C:\Users\Joven\Desktop\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.pdb
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\bin\Debug\Activity 10.exe.config
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\bin\Debug\Activity 10.exe
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\bin\Debug\Activity 10.pdb
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.csprojAssemblyReference.cache
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\MainWindow.g.cs
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\App.g.cs
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10_MarkupCompile.cache
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10_MarkupCompile.lref
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\MainWindow.baml
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.g.resources
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity_10.Properties.Resources.resources
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.csproj.GenerateResource.cache
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.exe
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Activity 10\Activity 10\obj\Debug\Activity 10.pdb

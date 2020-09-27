@@ -1,0 +1,14 @@
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\bin\Debug\Progressbartextlength.exe.config
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\bin\Debug\Progressbartextlength.exe
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\bin\Debug\Progressbartextlength.pdb
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\Progressbartextlength.csprojAssemblyReference.cache
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\MainWindow.g.cs
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\App.g.cs
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\Progressbartextlength_MarkupCompile.cache
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\Progressbartextlength_MarkupCompile.lref
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\MainWindow.baml
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\Progressbartextlength.g.resources
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\Progressbartextlength.Properties.Resources.resources
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\Progressbartextlength.csproj.GenerateResource.cache
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\Progressbartextlength.exe
+C:\Users\Joven\Desktop\Joven Files\Object Oriented Programming\Activities Zipped\Progressbartextlength\Progressbartextlength\obj\Debug\Progressbartextlength.pdb
